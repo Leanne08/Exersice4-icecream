@@ -1,0 +1,24 @@
+QWidget {
+    background-color: #f4f6f7;
+    font-size: 14px;
+    color: #2c3e50;
+}
+
+QPushButton {
+    background-color: #1a5276;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+QPushButton:hover {
+    background-color: #2980b9;
+}
+
+QLabel {
+    font-size: 15px;
+    font-weight: bold;
+    color: #1a5276;
+    qproperty-alignment: AlignCenter;
+}
